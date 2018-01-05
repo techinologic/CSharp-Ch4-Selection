@@ -1,0 +1,91 @@
+D:\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\bin\Debug\Selection.exe.config
+D:\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\MainWindow.baml
+D:\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\MainWindow.g.cs
+D:\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\App.g.cs
+D:\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection_MarkupCompile.cache
+D:\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.g.resources
+D:\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.Properties.Resources.resources
+D:\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.csproj.GenerateResource.Cache
+D:\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\bin\Debug\Selection.exe
+D:\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\bin\Debug\Selection.pdb
+D:\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.exe
+D:\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.pdb
+C:\Temp\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\bin\Debug\Selection.exe.config
+C:\Temp\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.exe
+C:\Temp\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.pdb
+C:\Temp\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\bin\Debug\Selection.exe
+C:\Temp\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\bin\Debug\Selection.pdb
+C:\Temp\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.csprojResolveAssemblyReference.cache
+C:\Temp\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\MainWindow.baml
+C:\Temp\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\MainWindow.g.cs
+C:\Temp\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\App.g.cs
+C:\Temp\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection_MarkupCompile.cache
+C:\Temp\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.g.resources
+C:\Temp\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.Properties.Resources.resources
+C:\Temp\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.csproj.GenerateResource.Cache
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\bin\Debug\Selection.exe.config
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.exe
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.pdb
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\bin\Debug\Selection.exe
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\bin\Debug\Selection.pdb
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.csprojResolveAssemblyReference.cache
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\MainWindow.baml
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\MainWindow.g.cs
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\App.g.cs
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection_MarkupCompile.cache
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.g.resources
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.Properties.Resources.resources
+D:\temp\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.csproj.GenerateResource.Cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\bin\Debug\Selection.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\bin\Debug\Selection.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\bin\Debug\Selection.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.csprojResolveAssemblyReference.cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\MainWindow.baml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\MainWindow.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\App.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection_MarkupCompile.cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.g.resources
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.Properties.Resources.resources
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\Debug\Selection.csproj.GenerateResource.Cache
+T:\COSC 420 S18\SOURCE\CSProjects\04Selection\Selection\bin\Debug\Selection.exe.config
+T:\COSC 420 S18\SOURCE\CSProjects\04Selection\Selection\obj\Debug\Selection.exe
+T:\COSC 420 S18\SOURCE\CSProjects\04Selection\Selection\obj\Debug\Selection.pdb
+T:\COSC 420 S18\SOURCE\CSProjects\04Selection\Selection\bin\Debug\Selection.exe
+T:\COSC 420 S18\SOURCE\CSProjects\04Selection\Selection\bin\Debug\Selection.pdb
+T:\COSC 420 S18\SOURCE\CSProjects\04Selection\Selection\obj\Debug\Selection.csprojResolveAssemblyReference.cache
+T:\COSC 420 S18\SOURCE\CSProjects\04Selection\Selection\obj\Debug\MainWindow.baml
+T:\COSC 420 S18\SOURCE\CSProjects\04Selection\Selection\obj\Debug\MainWindow.g.cs
+T:\COSC 420 S18\SOURCE\CSProjects\04Selection\Selection\obj\Debug\App.g.cs
+T:\COSC 420 S18\SOURCE\CSProjects\04Selection\Selection\obj\Debug\Selection_MarkupCompile.cache
+T:\COSC 420 S18\SOURCE\CSProjects\04Selection\Selection\obj\Debug\Selection.g.resources
+T:\COSC 420 S18\SOURCE\CSProjects\04Selection\Selection\obj\Debug\Selection.Properties.Resources.resources
+T:\COSC 420 S18\SOURCE\CSProjects\04Selection\Selection\obj\Debug\Selection.csproj.GenerateResource.Cache
+F:\04Selection\Selection\bin\Debug\Selection.exe.config
+F:\04Selection\Selection\obj\Debug\Selection.exe
+F:\04Selection\Selection\obj\Debug\Selection.pdb
+F:\04Selection\Selection\bin\Debug\Selection.exe
+F:\04Selection\Selection\bin\Debug\Selection.pdb
+F:\04Selection\Selection\obj\Debug\Selection.csprojResolveAssemblyReference.cache
+F:\04Selection\Selection\obj\Debug\MainWindow.baml
+F:\04Selection\Selection\obj\Debug\MainWindow.g.cs
+F:\04Selection\Selection\obj\Debug\App.g.cs
+F:\04Selection\Selection\obj\Debug\Selection_MarkupCompile.cache
+F:\04Selection\Selection\obj\Debug\Selection.g.resources
+F:\04Selection\Selection\obj\Debug\Selection.Properties.Resources.resources
+F:\04Selection\Selection\obj\Debug\Selection.csproj.GenerateResource.Cache
+J:\04Selection\Selection\bin\Debug\Selection.exe.config
+J:\04Selection\Selection\bin\Debug\Selection.exe
+J:\04Selection\Selection\bin\Debug\Selection.pdb
+J:\04Selection\Selection\obj\Debug\Selection.csprojResolveAssemblyReference.cache
+J:\04Selection\Selection\obj\Debug\MainWindow.baml
+J:\04Selection\Selection\obj\Debug\MainWindow.g.cs
+J:\04Selection\Selection\obj\Debug\App.g.cs
+J:\04Selection\Selection\obj\Debug\Selection_MarkupCompile.cache
+J:\04Selection\Selection\obj\Debug\Selection.g.resources
+J:\04Selection\Selection\obj\Debug\Selection.Properties.Resources.resources
+J:\04Selection\Selection\obj\Debug\Selection.csproj.GenerateResource.Cache
+J:\04Selection\Selection\obj\Debug\Selection.csproj.CoreCompileInputs.cache
+J:\04Selection\Selection\obj\Debug\Selection.exe
+J:\04Selection\Selection\obj\Debug\Selection.pdb
